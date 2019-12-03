@@ -1,0 +1,45 @@
+.przycisk-main {
+    font-size: 25px !important;
+    font-weight: bold !important;
+    background-color: #e1600e !important;
+    transition: all 0.4s ease-in-out !important;
+}
+.przycisk-main:hover {
+    background-color: #b6530d !important;
+    font-size: 35px !important;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    color: inherit;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.ciekawostki {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    background-image: url(honey.png);
+}
+.card-body {
+    font-weight: bold;
+    font-size: 20px;
+}
+.card-footer {
+    display: inline-block;
+    text-align: center;
+}
+.nav-link {
+    font-size: 20px !important;
+}
+.navbar-brand {
+    font-size :27px !important;
+}
+.link2115 i{
+    transition: all 0.4s ease-out !important;
+}
+.link2115:hover i{
+    transform: rotate(5deg);
+    font-size:125px;
+}
